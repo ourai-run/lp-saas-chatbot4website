@@ -13,3 +13,6 @@ desktop.ini
 _preview*.png
 node_modules/
 .vercel
+
+# Client data (NEVER commit — confidential prospect list)
+company_list/
